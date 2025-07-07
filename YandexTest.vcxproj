@@ -123,10 +123,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="Solutions\AnagrammSearcher.h" />
+    <ClInclude Include="Solutions\Alphabet.cpp" />
+    <ClInclude Include="Solutions\Anagramm.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Solutions\BankAccounts.cpp" />
+    <ClCompile Include="Solutions\ClosestNumber.cpp" />
+    <ClCompile Include="Solutions\ClosestZero.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
