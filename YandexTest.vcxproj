@@ -128,9 +128,14 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Solutions\AscendingList.cpp" />
     <ClCompile Include="Solutions\BankAccounts.cpp" />
+    <ClCompile Include="Solutions\BiggestNumber.cpp" />
+    <ClCompile Include="Solutions\BullsAndCows.cpp" />
     <ClCompile Include="Solutions\ClosestNumber.cpp" />
     <ClCompile Include="Solutions\ClosestZero.cpp" />
+    <ClCompile Include="Solutions\BiggestNeighbours.cpp" />
+    <ClCompile Include="Solutions\Elections.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

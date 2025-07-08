@@ -35,5 +35,20 @@
     <ClCompile Include="Solutions\ClosestZero.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Solutions\BiggestNeighbours.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Solutions\BiggestNumber.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Solutions\BullsAndCows.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Solutions\AscendingList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Solutions\Elections.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
